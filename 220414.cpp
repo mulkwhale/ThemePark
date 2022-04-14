@@ -10,7 +10,7 @@ int main(){
 	const int ADULT_ARMY_AFTER4 = 24500, TEEN_ARMY_AFTER4 = 21500, CHILD_ARMY_AFTER4 = 18500;
 	const int CHILD = 13, TEEN = 19, ADULT = 65;
 	int isExit = 0;
-	int totalPrice = 0; // 주몬 총액 
+	int totalPrice = 0; // 주문 총액 
 	int position = 0; // 주문 내역 배열 탐색용
 	int orderList[100][6] = { 0 }; // 주문 내역 저장
 	
