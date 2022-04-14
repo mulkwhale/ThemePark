@@ -22,6 +22,7 @@ int main(){
 			int order;
 			int special;
 			int price;
+			int continueNumber;
 			
 			int interAge = 0;
 			int age;
